@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Gostosão
+ *
+ */
+module termometro {
+}
